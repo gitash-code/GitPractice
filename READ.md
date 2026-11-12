@@ -1,2 +1,2 @@
 My frist git project for practice purpose
-working on login feature 
+Welocme to sudo-demo application 
