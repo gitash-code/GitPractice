@@ -3,3 +3,4 @@ My GitHub Desktop Learning
 1. I learned how to clone a repository.
 2. I learned how to view commit history.
 3. I learned how to inspect code differences.
+4. I learned how to push changes from GitHub Desktop.
